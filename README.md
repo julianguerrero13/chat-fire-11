@@ -2,6 +2,7 @@
 
 
 ![chat Fire - Google Chrome 2022-12-01 22-35-33](https://user-images.githubusercontent.com/95426901/205210442-59d72375-4ed1-4ba9-8c6a-17ff854ad1ff.gif)
+
 Proyecto realizado por Brayan Julian Guerrero Caro, los demás no aparecieron.
 
 ## Getting Started
