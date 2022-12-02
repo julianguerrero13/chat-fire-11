@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538730914177",
+    "project_id": "chat-fire-5a34e",
+    "storage_bucket": "chat-fire-5a34e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538730914177:android:c27ad4a77c564e6e73c880",
+        "android_client_info": {
+          "package_name": "com.example.pruebafire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538730914177-ukqfbfgh6k1ac6dji0fghb6qlb6a91p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg2sD-Wh2Y_w1Fr3PcNaEHeUBaK6Js2rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538730914177-ukqfbfgh6k1ac6dji0fghb6qlb6a91p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
